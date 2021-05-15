@@ -5,4 +5,4 @@
 
 - strings
 - login feature
-- logout feature pending
+- logout feature
