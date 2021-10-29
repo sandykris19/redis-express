@@ -6,3 +6,4 @@
 - strings
 - login feature
 - logout feature
+- hyperloglog
